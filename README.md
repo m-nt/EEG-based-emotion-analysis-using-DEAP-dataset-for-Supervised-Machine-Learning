@@ -12,6 +12,16 @@ This project is for classification of  emotions using EEG signals recorded in th
 
 •	The database contains all recorded signal data, frontal face video for a subset of the participants and subjective ratings from the participants.
 
+#installation
+
+1) install python here : https://www.python.org/downloads/
+
+2) run pip install -r requirements
+
+*** if pip doesn't found ***
+run : python3 fix_pip.py
+
+
 #operation
 
 1)Store the dataset in folder--> data/keep the dataset here.
