@@ -1,0 +1,9 @@
+numpy
+matplotlib
+openpyxl
+scipy
+mne
+sklearn
+PyWavelets
+yasa
+pikle
